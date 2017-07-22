@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Inventory app</string>
+    <string name="sale_button">Sale</string>
+    <string name="new_product">Add new item</string>
+    <string name="hint_email_address">provider@email.com</string>
+    <string name="provider_email_title">Provider e-mail address</string>
+    <string name="provider_phone_hint">+4 000 000 000</string>
+    <string name="provider_phone_title">Provider phone</string>
+    <string name="provider_name_hint">company name</string>
+    <string name="provider_name_title">Provider Name</string>
+    <string name="quantity_title">Quantity</string>
+    <string name="price_title">Price</string>
+    <string name="product_name_title">Product Name</string>
+    <string name="currency_details">¥ / item</string>
+    <string name="action_save">Save item</string>
+    <string name="editor_activity_title_new_item">Add new item</string>
+    <string name="editor_activity_title_edit_item">Edit item</string>
+    <string name="menu_order_item">Order more</string>
+    <string name="menu_delete_item">Delete item</string>
+    <string name="menu_delete_all_data">Delete all data</string>
+    <string name="phone">Phone</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">Place an order for the item by phone or e-mail</string>
+    <string name="delete_message">Are you sure you want to delete the item?</string>
+    <string name="delete">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_list_hint">Add items to your inventory</string>
+    <string name="action_add_dummy_data">Add Dummy Data</string>
+    <string name="select_image">Select</string>
+    <string name="image">Upload product photo</string>
+    <string name="unsaved_changes_dialog_msg">There are unsaved changes to your product order. Do you want to continue?</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep editing</string>
+</resources>
